@@ -9,8 +9,8 @@ let anu = `Hallo mypren 👋
 ━━━〔 ıll *Sewa Bot* llı 〕━━ꕥ
 ━━━━━━━━━━━━━━━━━━━━
 ━━━〔 ıll *HARGA* llı 〕━━ꕥ
-⬡ *1 BULAN:* *15.000*
-⬡ *2 BULAN:* *25.000*
+⬡ *1 BULAN:* *10.000*
+⬡ *2 BULAN:* *20.000*
 ⬡ *1 BULAN 2/3 GRUP:* *20.000*
 ⬡ *lebih dari 3 tambah +5.000*
 ┗━━━━━━━━━━━━━━━ꕥ
@@ -28,7 +28,7 @@ Jika anda berminat hubungi nomor di bawah!!
 Terimakasih yang sudah mendonasikan untuk bot
 
 Contact person Sewa Bot:
-wa.me/${6285850539404} (Owner)
+wa.me/${6287793236775} (Owner)
 
 *Follow Instagram ku juga kak😼*`
   conn.send3ButtonImg(m.chat, fla + teks, anu, instagram, 'Pilihan Store', '.pilihanstore', 'Owner', '.owner', 'Menu', '.menu', m) 
