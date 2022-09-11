@@ -15,8 +15,8 @@ let jarot = `
            hydratedFooterText: '📮Note : HALO KAK SAYA SXYOO, JIKA KAMU MENGGUNAKAN WA LAMA ATAU WA MOD, DAN BUTTON TIDAK KELIATAN, LANGSUNG AJA KETIK .allmenu',
            hydratedButtons: [{
              urlButton: {
-               displayText: '🔮𝙂𝙧𝙤𝙪𝙥🔮',
-               url: 'https://chat.whatsapp.com/EOv8e2Fkncg0BEDXVmhY7c'
+               displayText: '🔰𝙂𝘾 𝙊𝙒𝙉𝙀𝙍🔰',
+               url: 'https://chat.whatsapp.com/JS11vcFkCpM93SycO5Z9tI'
              }
 
            },
@@ -29,21 +29,21 @@ let jarot = `
            },
                {
              quickReplyButton: {
-               displayText: '𝙎𝙚𝙬𝙖🚀',
+               displayText: '🛡𝙎𝙚𝙬𝙖 𝙎𝙭𝙮𝙤🛡',
                id: '.sewabot',
              }
              
            },
                {
              quickReplyButton: {
-               displayText: '𝙎𝙘𝙧𝙞𝙥𝙩🎗️',
+               displayText: '𝙎𝙘 𝙎𝙭𝙮𝙤🤖',
                id: '.yntks',
              }
              
              },
                {
              quickReplyButton: {
-               displayText: '𝙇𝙞𝙨𝙩 𝘾𝙤𝙢𝙢𝙖𝙣𝙙📖',
+               displayText: '📑𝘼𝙇𝙇 𝙈𝙀𝙉𝙐📑',
                id: '.allmenu',
              }
 
