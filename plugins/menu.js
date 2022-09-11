@@ -56,7 +56,7 @@ const defaultMenu = {
 ┆⬡ *Premium* : Ⓟ
 ┆⬡ *Uptime:* : %uptime (%muptime)
 ┆⬡ *Run Bot* : Okteto/heroku
-┆⬡ *Ig Owner* : instagram.com/oscarbotz_
+┆⬡ *Ig Owner* : instagram.com/ahmdzakaria47
 ┗─────────────────⬣
 %readmore`.trimStart(),
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
@@ -166,11 +166,11 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
     /*conn.sendHydrated(m.chat, `${global.anu}`, text.trim(), 'Ⓟ premium | Ⓛ limit', null, 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ', 'Website🌟', '', '', [
-      ['Donate🌟', '/donasi'],
-      ['Sewa Bot🌟', '/sewa'],
-      ['Owner🌟', '/owner']
+      ['Donate💸', '/donasi'],
+      ['Sewa Bot🔰', '/sewa'],
+      ['Owner👑', '/owner']
     ], m)*/
-    let url = `https://telegra.ph/file/054b6fe59958df5ad6b1f.jpg`.trim()
+    let url = `https://telegra.ph/file/d8214c125ced3816f4485.jpg`.trim()
     let res = await fetch(url)
     let buffer = await res.buffer()
     let message = await prepareWAMessageMedia({ image: buffer }, { upload: conn.waUploadToServer })
@@ -179,17 +179,17 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: text.trim(),
-                            hydratedFooterText:'                『 𝑱𝑨𝑹𝑶𝑻 𝑶𝑭𝑭𝑪 』',
+                            hydratedFooterText:'                『 𝘼𝙅𝙄 𝙊𝙁𝙁𝘾』',
                             hydratedButtons: [{
                               urlButton: {
                                     displayText: '𝙂𝙧𝙤𝙪𝙥 🌏',
-                                    url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+                                    url: 'https://chat.whatsapp.com/JS11vcFkCpM93SycO5Z9tI'
                                 }
                                 
                             }, {
                               urlButton: {
                                     displayText: '𝙔𝙤𝙪𝙏𝙪𝙗𝙚 📺',
-                                    url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+                                    url: 'https://youtube.com/channel/UCJNi-zXIsky4nheONnxoY1w'
                                 }
                             }, {
                                 quickReplyButton: {
