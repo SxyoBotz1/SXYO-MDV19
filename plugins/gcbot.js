@@ -7,14 +7,14 @@ let handler = async (m, { conn }) => conn.send2ButtonLoc(m.chat, await (await fe
 ║ _*GRUB OWNER 1*_×͜×
 ╠═══════════════════
 ║➸ 𝐆𝐫𝐨𝐮𝐩 𝐁𝐨𝐭 1
-║ https://chat.whatsapp.com/EOv8e2Fkncg0BEDXVmhY7c
+║ https://chat.whatsapp.com/JS11vcFkCpM93SycO5Z9tI
 ║➸ 𝐆𝐫𝐨𝐮𝐩 𝐁𝐨𝐭 2
-║ https://chat.whatsapp.com/BBYOa1LabJKL7zdojIn00B
+║ https://chat.whatsapp.com/FsJO4C4bLze8LxujNSAzRS
 ╚════════════════════
 ╔════════════════════
 ║ *Group 18+ owner*
 ╠════════════════════
-║https://chat.whatsapp.com/F2qeOxrb8WSCG14B31hwme
+║https://chat.whatsapp.com/Bt8B20EgFfD6GYZKerz2fk
 ╚════════════════════
 ╔════════════════════
 ║ *RULES GROUP BOT*
